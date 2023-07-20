@@ -1,2 +1,0 @@
-# vic
-spam report discord
